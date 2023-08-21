@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFr0r_u0no/Jge2kQyQAO5XEIM9by_hvA/view?utm_content=DAFr0r_u0no&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+
 <h1 align="center">💫About Me:</h1>
 <h1 align="center">Hello, I'm Abu Darda Shamaun,Mobile App Developer</h1>
 <h3 align="center">🌱 As of now, building beautiful apps with React Native 💚.</h3>
